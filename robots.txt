@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lumblazar.github.io/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/app/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/assets/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/css/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/includes/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/item/sitemap.html.gz
+Sitemap: https://lumblazar.github.io/src/sitemap.html.gz
